@@ -383,6 +383,14 @@
       "category": "Productivity",
       "type": "Free",
       "website": "https://eightify.app/?ref=intellitools"
+    },
+    {
+      "name": "agent-qa",
+      "image": "https://vostride.com/og?v=7",
+      "description": "Natural-language web and mobile testing with memidex persistent memory, validated self-improvement, and reviewable run evidence. FSL-1.1-ALv2; model/service costs vary.",
+      "category": "Code",
+      "type": "Self-hosted",
+      "website": "https://vostride.com"
     }
   ]
 }
